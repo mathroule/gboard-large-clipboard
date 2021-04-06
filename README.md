@@ -2,7 +2,7 @@
 MVP to reproduce large clipboard issue with Gboard on Android 11.
 
 ## Prerequisites
-* A Pixel 5 with Android 11
+* A Pixel 5 (works also on Pixel 4 or 3) with Android 11
 * Gboard version 10.3.05.356487417-release-arm64-v8a
 
 ## Steps to reproduce
